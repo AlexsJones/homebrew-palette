@@ -1,10 +1,10 @@
 class Palette < Formula
   desc "Manage all your GitHub repositories with ease."
   homepage "https://github.com/AlexsJones/palette"
-  url "https://github.com/AlexsJones/palette/archive/refs/tags/v0.0.5.tar.gz"
-  sha256 "0b18fea9a96738fd404285de8810c062e2252b502f99f69a3c0bca2e4ca41a8f"
+  url "https://github.com/AlexsJones/palette/archive/refs/tags/v0.0.6.tar.gz"
+  sha256 "4bf194a79a9589794c7d6fd71b2800fdf3306389f188fe7dc83eb5be3e0a124e"
   license "MIT"
-  version "0.0.5"
+  version "0.0.6"
 
   depends_on "rust" => :build
 
